@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{9688F2A0-12EA-444C-AB01-5088DA9CD3BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{05B4ED9A-186A-4312-AA24-7A43A9373EB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransferDataClassLibrary", "TransferDataClassLibrary\TransferDataClassLibrary.csproj", "{8EEE9E58-9C04-452F-AFD6-336A8587774F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9688F2A0-12EA-444C-AB01-5088DA9CD3BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9688F2A0-12EA-444C-AB01-5088DA9CD3BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9688F2A0-12EA-444C-AB01-5088DA9CD3BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9688F2A0-12EA-444C-AB01-5088DA9CD3BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05B4ED9A-186A-4312-AA24-7A43A9373EB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05B4ED9A-186A-4312-AA24-7A43A9373EB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05B4ED9A-186A-4312-AA24-7A43A9373EB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05B4ED9A-186A-4312-AA24-7A43A9373EB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EEE9E58-9C04-452F-AFD6-336A8587774F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EEE9E58-9C04-452F-AFD6-336A8587774F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EEE9E58-9C04-452F-AFD6-336A8587774F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EEE9E58-9C04-452F-AFD6-336A8587774F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
